@@ -64,12 +64,15 @@ a{
 a:hover{
    text-decoration: underline;
 }
-.site-title,
-.site-subtitle{
-  color: white;
+.site-subtitle, 
+.site-title {
+  color: whitesmoke;
   text-align: center;
 }
 
+.site-title {
+  font-size: 4em;
+}
 .site-subtitle{
   font-style: italic;
 }
