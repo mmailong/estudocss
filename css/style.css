@@ -19,17 +19,22 @@ header {
   justify-content: center;
   align-items: center;
 }
-.menu{
+.menu {
   background-color: white;
+  position: fixed;
+  width: 100vw;
+  top: 0;
 }
-
-.menu ul{
+.menu ul {
   display: flex;
   justify-content: space-around;
 }
-
-.menu li{
-  list-style: none;
+.menu li {
+ list-style: none; 
+}
+.menu a {
+  display: block;
+  padding: 10px 20px;
 }
 
 a{
