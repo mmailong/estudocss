@@ -26,6 +26,7 @@ body {
 
 header {
   background-image: url('../img/fone.jpg');
+  background-size: 1000px 780px;
   height: 100vh;
   display: flex;
   align-items: center;
