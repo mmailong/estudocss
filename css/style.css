@@ -72,9 +72,11 @@ a:hover{
 
 .site-title {
   font-size: 4em;
+  font-family: 'Roboto', sans-serif;
 }
 .site-subtitle{
   font-style: italic;
+  font-family: 'Dancing Script', cursive;
 }
 .img-portfolio {
   height: 150px;
