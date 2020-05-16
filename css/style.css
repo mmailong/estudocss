@@ -25,7 +25,7 @@ body {
 }
 
 header {
-  background-image: url('../img/playstation.jpg');
+  background-image: url('../img/play.jpg');
   background-size: bottom left;
   height: 100vh;
   display: flex;
@@ -133,6 +133,6 @@ header {
 }
 
 .icons a {
-  color: #A9A9A9;
+  color: #C0C0C0;
   font-size: 6em;
 }
