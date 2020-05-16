@@ -33,7 +33,7 @@ header {
 }
 
 .menu {
-  background-color: white;
+  background-color: black;
   position: fixed;
   top: 0;
   width: 100vw;
@@ -47,7 +47,7 @@ header {
 .menu li {
   list-style: none;
 }
-
+ck
 .menu a {
   color: teal;
   display: block;
