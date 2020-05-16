@@ -11,15 +11,26 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+/* se a tela tiver pelo menos 400px vai carregar estes estilos */
 @media (min-width: 400px) {
+  body {
+    font-size: 14px;
+  }
+}
+
+/* breakpoint */
+@media (min-width: 600px) {
   body {
     font-size: 18px;
   }
 }
 
-@media (min-width: 600px) {
+/* breakpoint */
+@media (min-width: 1200px) {
   body {
-    font-size: 22px;
+    font-size: 20px;
+    background-image: none;
+    background-color: deeppink;
   }
 }
 
