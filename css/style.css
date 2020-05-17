@@ -65,12 +65,13 @@ header {
   display: block;
   padding: 10px 20px;
   transition: background-color 1s, color 1s;
+  text-decoration: none;
 }
 
 .menu a:active,
 .menu a:hover {
   background-color: whitesmoke;
-  color: white;
+  color: #000000;
 }
 
 
