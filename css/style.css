@@ -30,7 +30,7 @@ body {
   body {
     font-size: 20px;
     background-image: none;
-    background-color: deeppink;
+    background-color: white;
   }
 }
 
@@ -134,6 +134,7 @@ header {
 
 .portfolio figcaption {
   font-weight: bold;
+  font-color: #000000;
 }
 
 .img-portfolio {
