@@ -145,7 +145,12 @@ header {
   width: 180px;
 }
 
-.icons a {
-  color: #C0C0C0;
-  font-size: 6em;
+.contato .icons {
+  text-align: center;
+}
+
+.contato a {
+  color:  #C0C0C0;
+  font-size: 4em;
+  transition: text-shadow 1s;
 }
