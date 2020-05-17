@@ -62,11 +62,17 @@ header {
 }
 
 .menu a {
-  color: white;
   display: block;
-  padding: 10px;
-  text-decoration: none;
+  padding: 10px 20px;
+  transition: background-color 1s, color 1s;
 }
+
+.menu a:active,
+.menu a:hover {
+  background-color: whitesmoke;
+  color: white;
+}
+
 
 .site-title {
   color:#000000;
